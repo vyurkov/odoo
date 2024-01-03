@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+employee_wellness_tracker.access_wellness_activity,access_wellness_activity,employee_wellness_tracker.model_wellness_activity,,1,1,1,1
